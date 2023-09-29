@@ -11,7 +11,8 @@ As a professional I have worked primarily in retail and sales, but am hoping to 
 + Have the ability work remotely, with the intention of traveling
 + Focus on building data visualizations and data cleaning
 
-- 📫 How to reach me **m.r.waananen@gmail.com**
+
+📫 How to reach me **m.r.waananen@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mark-waananen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark-waananen" height="30" width="40" /></a>
