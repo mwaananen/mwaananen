@@ -4,8 +4,6 @@
 ### Mark R. Waananen
 As a professional I have worked primarily in retail and sales, but am hoping to make a career pivot into Data Analytics. I recently completed a 24 week [Bootcamp course on Data Visualization and Analytics](https://bootcamp.umn.edu/data/). Throughout this course we learned Excel, VBA, Python, SQL, Tableau, Machine Learning. We worked primarily in Jupyter Notebook using various Python libraries such as, Pandas, MatPlotLib, Numpy, among others. 
 
-- 📫 How to reach me **m.r.waananen@gmail.com**
-
 ### My career objectives:
 + Obtain employment as Data Analyst or within a data related field
 + Obtain employment as a career, __Not__ just a job
@@ -14,6 +12,7 @@ As a professional I have worked primarily in retail and sales, but am hoping to 
 + Focus on building data visualizations and data cleaning
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **m.r.waananen@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/mark-waananen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark-waananen" height="30" width="40" /></a>
 </p>
