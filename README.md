@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A prospective Data Analyst</h3>
 
-## Mark R. Waananen
+### Mark R. Waananen
 As a professional I have worked primarily in retail and sales, but am hoping to make a career pivot into Data Analytics. I recently completed a 24 week [Bootcamp course on Data Visualization and Analytics](https://bootcamp.umn.edu/data/). Throughout this course we learned Excel, VBA, Python, SQL, Tableau, Machine Learning. We worked primarily in Jupyter Notebook using various Python libraries such as, Pandas, MatPlotLib, Numpy, among others. 
 
 - 📫 How to reach me **m.r.waananen@gmail.com**
