@@ -7,5 +7,5 @@ As a professional I have worked primarily in retail and sales, but am hoping to 
 + Have the ability work remotely, with the intention of traveling
 + Focus on building data visualizations and data cleaning
 
-[Hungerford](FM22_Hungerford_TableauPublic_trial/README.md)
+[Hungerford](README.md)
 
